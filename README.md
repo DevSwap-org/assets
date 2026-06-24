@@ -4,13 +4,14 @@ Official logos, banners, and media for **[DevSwap](https://devswap.pro)** — a 
 protocol for on-chain software-services settlement on BNB Smart Chain.
 
 ## Contents
-Brand marks, social/OG banners, and shared media used across DevSwap sites and docs.
+Brand marks, social/OG banners, and shared media used across official DevSwap sites and docs.
 
-## Usage
-These are DevSwap brand assets. © DevSwap. All rights reserved. You may reference DevSwap and
-use unmodified logos for **editorial / linking** purposes that accurately describe the protocol.
-Do not alter the marks or imply endorsement, partnership, or affiliation. For any other use,
-contact **dev@devswap.pro**.
+## Usage & rights
+© DevSwap. **All rights reserved.** The DevSwap name, logos, wordmarks, and every asset in this
+repository are proprietary trademarks and copyrighted brand materials of DevSwap.
 
-> Code in other DevSwap repositories is MIT-licensed; **brand assets are not** — they remain
-> proprietary to protect the identity of a protocol that handles user funds.
+**No permission is granted to use, copy, modify, or distribute these assets.** They are published
+here only so they can be served by official DevSwap properties. Any use without prior written
+permission is prohibited — see [LICENSE](LICENSE). For permission requests: **dev@devswap.pro**.
+
+> Source code in other DevSwap repositories is MIT-licensed; **these brand assets are not.**
